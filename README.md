@@ -6,3 +6,6 @@ We welcome contributions to improve our service. To get started, create a fork o
 
 # License
 This project is licensed under GPL 3. Be sure to read the license before contributing or forking. This license doesn't apply for our database. You may use our database if you are only reading content. By using Phoner as an user through http://phoner.epizy.com, you agree to the [JUV Studios terms of use](https://sway.office.com/s/5JnZ4XUEqVN7bAsB/embed).
+
+# Feedback
+We don't currently accept feedback through GitHub issues. You can fill our [feedback form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAfw8fV9UNFRGQ1JKUk9aU1dZU1A0TlVCUzdTN1c5MS4u) instead.
